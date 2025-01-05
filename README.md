@@ -50,7 +50,7 @@ streamlit run app.py
 
 Navigate through the "EDA" and "Resultados" sections using the sidebar menu.
 Interact with the application by selecting datasets, algorithms, and viewing the results.
-Contributing:
+
 
 *Contributing:*
 
