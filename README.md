@@ -28,29 +28,31 @@ This repository contains a Python application for data analysis and model select
    ```bash
    git clone https://github.com/KainnT/Parameters-Genetic-Search.git
    ```
-Install dependencies:
+2. **Install dependencies:**
 
 ```bash
 pip install -r requirements.txt 
 (Note: Create a requirements.txt file listing all necessary libraries.)
 ```
-
-Configure data sources:
+3. **Configure data sources:**
 
 If using SQL:
 Update the db_params dictionary in load_and_process_data with your database credentials.
 If using CSV files:
 Update the csv_files list in load_and_process_data with the paths to your CSV files.
-Run the application:
+
+4. *Run the application:*
  ```bash
 streamlit run app.py
  ```
 
-Usage:
+*Usage:*
 
 Navigate through the "EDA" and "Resultados" sections using the sidebar menu.
 Interact with the application by selecting datasets, algorithms, and viewing the results.
 Contributing:
+
+*Contributing:*
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -58,6 +60,10 @@ Fork the repository.
 Create a new branch for your feature or bug fix.   
 Make your changes and commit them with clear and concise messages.
 Push your changes to your fork.
-Create a pull request.   
+Create a pull request.
+---
 
-License:
+## **License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
