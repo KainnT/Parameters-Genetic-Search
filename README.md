@@ -25,9 +25,9 @@ This repository contains a Python application for data analysis and model select
 **Getting Started:**
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/KainnT/Parameters-Genetic-Search.git
-   ```
+ ```bash
+ git clone https://github.com/KainnT/Parameters-Genetic-Search.git
+ ```
 2. **Install dependencies:**
 
 ```bash
